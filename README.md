@@ -18,7 +18,8 @@ Data Loader Using CSV File &amp; CRUD operations on CSV file
 # Update product  (Update)
   Method: PUT
   URL: http://127.0.0.1:5000/product/<id>
-  		  (e.g., /product/1).
+  		  (e.g., /product/1)
+      
   Body:
     {
       "product_name": "Updated Tea",
